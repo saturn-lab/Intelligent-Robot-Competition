@@ -1,0 +1,1269 @@
+INT Ori counter delta flag temp distance
+
+
+ASSIGNMENT 10 00 distance 00 00
+ID 05 00 distance
+DELAY 0 A
+CMP 10 00 distance 00 64
+JBE id-9dd1018504be689afb715a462d332f81-1
+  CMP 10 00 counter 00 00
+  JNE id-cccdbd3d30fa5393a5ed457b6ea78e02-1
+      SPEED 32
+      MOVE 50 28 64 5A 69 50 6E 5A 78 A0 64 6B 6B 92 4C 64
+      WAIT
+      SPEED 3C
+      MOVE 50 1E 64 64 5D 35 7C 66 78 AA 64 73 68 8C 4E 75
+      WAIT
+      SPEED 32
+      MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+      WAIT
+
+      SPEED 32
+      MOVE 50 28 64 5A 69 50 6E 5A 78 A0 64 6B 6B 92 4C 64
+      WAIT
+      SPEED 3C
+      MOVE 50 1E 64 64 5D 35 7C 66 78 AA 64 73 68 8C 4E 75
+      WAIT
+      SPEED 32
+      MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+      WAIT
+
+      SPEED 32
+      MOVE 50 28 64 5A 69 50 6E 5A 78 A0 64 6B 6B 92 4C 64
+      WAIT
+      SPEED 3C
+      MOVE 50 1E 64 64 5D 35 7C 66 78 AA 64 73 68 8C 4E 75
+      WAIT
+      SPEED 32
+      MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+      WAIT
+
+      SPEED 32
+      MOVE 50 28 64 5A 69 50 6E 5A 78 A0 64 6B 6B 92 4C 64
+      WAIT
+      SPEED 3C
+      MOVE 50 1E 64 64 5D 35 7C 66 78 AA 64 73 68 8C 4E 75
+      WAIT
+      SPEED 32
+      MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+      WAIT
+
+      SPEED 32
+      MOVE 50 28 64 5A 69 50 6E 5A 78 A0 64 6B 6B 92 4C 64
+      WAIT
+      SPEED 3C
+      MOVE 50 1E 64 64 5D 35 7C 66 78 AA 64 73 68 8C 4E 75
+      WAIT
+      SPEED 32
+      MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+      WAIT
+
+      SPEED 32
+      MOVE 50 28 64 5A 69 50 6E 5A 78 A0 64 6B 6B 92 4C 64
+      WAIT
+      SPEED 3C
+      MOVE 50 1E 64 64 5D 35 7C 66 78 AA 64 73 68 8C 4E 75
+      WAIT
+      SPEED 32
+      MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+      WAIT
+
+      SPEED 32
+      MOVE 50 28 64 5A 69 50 6E 5A 78 A0 64 6B 6B 92 4C 64
+      WAIT
+      SPEED 3C
+      MOVE 50 1E 64 64 5D 35 7C 66 78 AA 64 73 68 8C 4E 75
+      WAIT
+      SPEED 32
+      MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+      WAIT
+
+      SPEED 32
+      MOVE 50 28 64 5A 69 50 6E 5A 78 A0 64 6B 6B 92 4C 64
+      WAIT
+      SPEED 3C
+      MOVE 50 1E 64 64 5D 35 7C 66 78 AA 64 73 68 8C 4E 75
+      WAIT
+      SPEED 32
+      MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+      WAIT
+
+      SPEED 32
+      MOVE 50 28 64 5A 69 50 6E 5A 78 A0 64 6B 6B 92 4C 64
+      WAIT
+      SPEED 3C
+      MOVE 50 1E 64 64 5D 35 7C 66 78 AA 64 73 68 8C 4E 75
+      WAIT
+      SPEED 32
+      MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+      WAIT
+
+      SPEED 32
+      MOVE 50 28 64 5A 69 50 6E 5A 78 A0 64 6B 6B 92 4C 64
+      WAIT
+      SPEED 3C
+      MOVE 50 1E 64 64 5D 35 7C 66 78 AA 64 73 68 8C 4E 75
+      WAIT
+      SPEED 32
+      MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+      WAIT
+
+      SPEED 32
+      MOVE 50 28 64 5A 69 50 6E 5A 78 A0 64 6B 6B 92 4C 64
+      WAIT
+      SPEED 3C
+      MOVE 50 1E 64 64 5D 35 7C 66 78 AA 64 73 68 8C 4E 75
+      WAIT
+      SPEED 32
+      MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+      WAIT
+
+    MOVE 50 1E 64 64 5D 37 7C 64 78 AA 64 64 6B 91 4C 64
+    WAIT
+      SPEED 3C
+      MOVE 50 23 50 56 82 5D 73 5A 78 A5 50 5E 6B 92 4E 57
+      WAIT
+      SPEED 3C
+      MOVE 50 23 50 56 78 25 A3 5A 78 A5 50 5E 6B 92 4D 5A
+      WAIT
+      SPEED 14
+      MOVE 50 23 50 6B 64 38 7C 6E 78 A5 50 70 8C 96 58 6E
+      WAIT
+      SPEED 3C
+      MOVE 50 23 78 54 5D 36 7B 70 78 A5 78 5F 5A 69 68 75
+      WAIT
+      SPEED 3C
+      MOVE 50 23 78 6A 5D 36 7B 6E 78 A5 78 72 57 A3 2C 6E
+      WAIT
+      SPEED 14
+      MOVE 50 23 78 58 47 2D 6B 5A 78 A5 78 5D 64 90 4C 5A
+      WAIT
+
+      SPEED 3C
+      MOVE 50 23 50 56 82 5D 73 5A 78 A5 50 5E 6B 92 4E 57
+      WAIT
+      SPEED 3C
+      MOVE 50 23 50 56 78 25 A3 5A 78 A5 50 5E 6B 92 4D 5A
+      WAIT
+      SPEED 14
+      MOVE 50 23 50 6B 64 38 7C 6E 78 A5 50 70 8C 96 58 6E
+      WAIT
+      SPEED 3C
+      MOVE 50 23 78 54 5D 36 7B 70 78 A5 78 5F 5A 69 68 75
+      WAIT
+      SPEED 3C
+      MOVE 50 23 78 6A 5D 36 7B 6E 78 A5 78 72 57 A3 2C 6E
+      WAIT
+      SPEED 14
+      MOVE 50 23 78 58 47 2D 6B 5A 78 A5 78 5D 64 90 4C 5A
+      WAIT
+
+      SPEED 3C
+      MOVE 50 23 50 56 82 5D 73 5A 78 A5 50 5E 6B 92 4E 57
+      WAIT
+      SPEED 3C
+      MOVE 50 23 50 56 78 25 A3 5A 78 A5 50 5E 6B 92 4D 5A
+      WAIT
+      SPEED 14
+      MOVE 50 23 50 6B 64 38 7C 6E 78 A5 50 70 8C 96 58 6E
+      WAIT
+      SPEED 3C
+      MOVE 50 23 78 54 5D 36 7B 70 78 A5 78 5F 5A 69 68 75
+      WAIT
+      SPEED 3C
+      MOVE 50 23 78 6A 5D 36 7B 6E 78 A5 78 72 57 A3 2C 6E
+      WAIT
+      SPEED 14
+      MOVE 50 23 78 58 47 2D 6B 5A 78 A5 78 5D 64 90 4C 5A
+      WAIT
+
+      SPEED 3C
+      MOVE 50 23 50 56 82 5D 73 5A 78 A5 50 5E 6B 92 4E 57
+      WAIT
+      SPEED 3C
+      MOVE 50 23 50 56 78 25 A3 5A 78 A5 50 5E 6B 92 4D 5A
+      WAIT
+      SPEED 14
+      MOVE 50 23 50 6B 64 38 7C 6E 78 A5 50 70 8C 96 58 6E
+      WAIT
+      SPEED 3C
+      MOVE 50 23 78 54 5D 36 7B 70 78 A5 78 5F 5A 69 68 75
+      WAIT
+      SPEED 3C
+      MOVE 50 23 78 6A 5D 36 7B 6E 78 A5 78 72 57 A3 2C 6E
+      WAIT
+      SPEED 14
+      MOVE 50 23 78 58 47 2D 6B 5A 78 A5 78 5D 64 90 4C 5A
+      WAIT
+
+      SPEED 3C
+      MOVE 50 23 50 56 82 5D 73 5A 78 A5 50 5E 6B 92 4E 57
+      WAIT
+      SPEED 3C
+      MOVE 50 23 50 56 78 25 A3 5A 78 A5 50 5E 6B 92 4D 5A
+      WAIT
+      SPEED 14
+      MOVE 50 23 50 6B 64 38 7C 6E 78 A5 50 70 8C 96 58 6E
+      WAIT
+      SPEED 3C
+      MOVE 50 23 78 54 5D 36 7B 70 78 A5 78 5F 5A 69 68 75
+      WAIT
+      SPEED 3C
+      MOVE 50 23 78 6A 5D 36 7B 6E 78 A5 78 72 57 A3 2C 6E
+      WAIT
+      SPEED 14
+      MOVE 50 23 78 58 47 2D 6B 5A 78 A5 78 5D 64 90 4C 5A
+      WAIT
+
+      SPEED 3C
+      MOVE 50 23 50 56 82 5D 73 5A 78 A5 50 5E 6B 92 4E 57
+      WAIT
+      SPEED 3C
+      MOVE 50 23 50 56 78 25 A3 5A 78 A5 50 5E 6B 92 4D 5A
+      WAIT
+      SPEED 14
+      MOVE 50 23 50 6B 64 38 7C 6E 78 A5 50 70 8C 96 58 6E
+      WAIT
+      SPEED 3C
+      MOVE 50 23 78 54 5D 36 7B 70 78 A5 78 5F 5A 69 68 75
+      WAIT
+      SPEED 3C
+      MOVE 50 23 78 6A 5D 36 7B 6E 78 A5 78 72 57 A3 2C 6E
+      WAIT
+      SPEED 14
+      MOVE 50 23 78 58 47 2D 6B 5A 78 A5 78 5D 64 90 4C 5A
+      WAIT
+
+    MOVE 50 1E 64 64 5D 37 7C 64 78 AA 64 64 6B 91 4C 64
+    WAIT
+      SPEED 32
+      MOVE 50 28 64 5D 5D 36 7C 64 78 A0 64 6E 5F 78 5A 6E
+      WAIT
+      SPEED 3C
+      MOVE 50 1E 64 55 60 3C 7A 53 78 AA 64 64 6B 93 4C 62
+      WAIT
+      SPEED 32
+      MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+      WAIT
+
+      SPEED 32
+      MOVE 50 28 64 5D 5D 36 7C 64 78 A0 64 6E 5F 78 5A 6E
+      WAIT
+      SPEED 3C
+      MOVE 50 1E 64 55 60 3C 7A 53 78 AA 64 64 6B 93 4C 62
+      WAIT
+      SPEED 32
+      MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+      WAIT
+
+      SPEED 32
+      MOVE 50 28 64 5D 5D 36 7C 64 78 A0 64 6E 5F 78 5A 6E
+      WAIT
+      SPEED 3C
+      MOVE 50 1E 64 55 60 3C 7A 53 78 AA 64 64 6B 93 4C 62
+      WAIT
+      SPEED 32
+      MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+      WAIT
+
+      SPEED 32
+      MOVE 50 28 64 5D 5D 36 7C 64 78 A0 64 6E 5F 78 5A 6E
+      WAIT
+      SPEED 3C
+      MOVE 50 1E 64 55 60 3C 7A 53 78 AA 64 64 6B 93 4C 62
+      WAIT
+      SPEED 32
+      MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+      WAIT
+
+      SPEED 32
+      MOVE 50 28 64 5D 5D 36 7C 64 78 A0 64 6E 5F 78 5A 6E
+      WAIT
+      SPEED 3C
+      MOVE 50 1E 64 55 60 3C 7A 53 78 AA 64 64 6B 93 4C 62
+      WAIT
+      SPEED 32
+      MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+      WAIT
+
+      SPEED 32
+      MOVE 50 28 64 5D 5D 36 7C 64 78 A0 64 6E 5F 78 5A 6E
+      WAIT
+      SPEED 3C
+      MOVE 50 1E 64 55 60 3C 7A 53 78 AA 64 64 6B 93 4C 62
+      WAIT
+      SPEED 32
+      MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+      WAIT
+
+      SPEED 32
+      MOVE 50 28 64 5D 5D 36 7C 64 78 A0 64 6E 5F 78 5A 6E
+      WAIT
+      SPEED 3C
+      MOVE 50 1E 64 55 60 3C 7A 53 78 AA 64 64 6B 93 4C 62
+      WAIT
+      SPEED 32
+      MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+      WAIT
+
+      SPEED 32
+      MOVE 50 28 64 5D 5D 36 7C 64 78 A0 64 6E 5F 78 5A 6E
+      WAIT
+      SPEED 3C
+      MOVE 50 1E 64 55 60 3C 7A 53 78 AA 64 64 6B 93 4C 62
+      WAIT
+      SPEED 32
+      MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+      WAIT
+
+      SPEED 32
+      MOVE 50 28 64 5D 5D 36 7C 64 78 A0 64 6E 5F 78 5A 6E
+      WAIT
+      SPEED 3C
+      MOVE 50 1E 64 55 60 3C 7A 53 78 AA 64 64 6B 93 4C 62
+      WAIT
+      SPEED 32
+      MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+      WAIT
+
+      SPEED 32
+      MOVE 50 28 64 5D 5D 36 7C 64 78 A0 64 6E 5F 78 5A 6E
+      WAIT
+      SPEED 3C
+      MOVE 50 1E 64 55 60 3C 7A 53 78 AA 64 64 6B 93 4C 62
+      WAIT
+      SPEED 32
+      MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+      WAIT
+
+      SPEED 32
+      MOVE 50 28 64 5D 5D 36 7C 64 78 A0 64 6E 5F 78 5A 6E
+      WAIT
+      SPEED 3C
+      MOVE 50 1E 64 55 60 3C 7A 53 78 AA 64 64 6B 93 4C 62
+      WAIT
+      SPEED 32
+      MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+      WAIT
+
+    SPEED 1B
+    MOVE 50 1E 55 5F 7B 37 9A 5F 78 AA 55 69 89 91 6A 69
+    WAIT
+    SPEED 1E
+    MOVE 50 1E 55 5F 7B 37 9A 5D 78 AA 55 69 89 91 6A 6B
+    WAIT
+    SPEED 1E
+    MOVE 50 1E 64 64 5D 37 7C 64 78 AA 64 64 6B 91 4C 64
+    WAIT
+    DELAY 2 58
+    SPEED 28
+    MOVE 50 1E 64 64 5D 37 7C 64 78 AA 64 64 6B 91 4C 64
+    WAIT
+    ASSIGNMENT 10 00 counter 00 01
+  JMP id-cccdbd3d30fa5393a5ed457b6ea78e02-2
+  LABEL id-cccdbd3d30fa5393a5ed457b6ea78e02-1
+    CMP 10 00 counter 00 01
+    JNE id-9b111abad742983765e7996f028fd6b7-1
+        SPEED 32
+        MOVE 50 28 64 5D 5D 36 7C 64 78 A0 64 6E 5F 78 5A 6E
+        WAIT
+        SPEED 3C
+        MOVE 50 1E 64 55 60 3C 7A 53 78 AA 64 64 6B 93 4C 62
+        WAIT
+        SPEED 32
+        MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+        WAIT
+
+        SPEED 32
+        MOVE 50 28 64 5D 5D 36 7C 64 78 A0 64 6E 5F 78 5A 6E
+        WAIT
+        SPEED 3C
+        MOVE 50 1E 64 55 60 3C 7A 53 78 AA 64 64 6B 93 4C 62
+        WAIT
+        SPEED 32
+        MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+        WAIT
+
+        SPEED 32
+        MOVE 50 28 64 5D 5D 36 7C 64 78 A0 64 6E 5F 78 5A 6E
+        WAIT
+        SPEED 3C
+        MOVE 50 1E 64 55 60 3C 7A 53 78 AA 64 64 6B 93 4C 62
+        WAIT
+        SPEED 32
+        MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+        WAIT
+
+        SPEED 32
+        MOVE 50 28 64 5D 5D 36 7C 64 78 A0 64 6E 5F 78 5A 6E
+        WAIT
+        SPEED 3C
+        MOVE 50 1E 64 55 60 3C 7A 53 78 AA 64 64 6B 93 4C 62
+        WAIT
+        SPEED 32
+        MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+        WAIT
+
+        SPEED 32
+        MOVE 50 28 64 5D 5D 36 7C 64 78 A0 64 6E 5F 78 5A 6E
+        WAIT
+        SPEED 3C
+        MOVE 50 1E 64 55 60 3C 7A 53 78 AA 64 64 6B 93 4C 62
+        WAIT
+        SPEED 32
+        MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+        WAIT
+
+        SPEED 32
+        MOVE 50 28 64 5D 5D 36 7C 64 78 A0 64 6E 5F 78 5A 6E
+        WAIT
+        SPEED 3C
+        MOVE 50 1E 64 55 60 3C 7A 53 78 AA 64 64 6B 93 4C 62
+        WAIT
+        SPEED 32
+        MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+        WAIT
+
+        SPEED 32
+        MOVE 50 28 64 5D 5D 36 7C 64 78 A0 64 6E 5F 78 5A 6E
+        WAIT
+        SPEED 3C
+        MOVE 50 1E 64 55 60 3C 7A 53 78 AA 64 64 6B 93 4C 62
+        WAIT
+        SPEED 32
+        MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+        WAIT
+
+        SPEED 32
+        MOVE 50 28 64 5D 5D 36 7C 64 78 A0 64 6E 5F 78 5A 6E
+        WAIT
+        SPEED 3C
+        MOVE 50 1E 64 55 60 3C 7A 53 78 AA 64 64 6B 93 4C 62
+        WAIT
+        SPEED 32
+        MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+        WAIT
+
+        SPEED 32
+        MOVE 50 28 64 5D 5D 36 7C 64 78 A0 64 6E 5F 78 5A 6E
+        WAIT
+        SPEED 3C
+        MOVE 50 1E 64 55 60 3C 7A 53 78 AA 64 64 6B 93 4C 62
+        WAIT
+        SPEED 32
+        MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+        WAIT
+
+        SPEED 32
+        MOVE 50 28 64 5D 5D 36 7C 64 78 A0 64 6E 5F 78 5A 6E
+        WAIT
+        SPEED 3C
+        MOVE 50 1E 64 55 60 3C 7A 53 78 AA 64 64 6B 93 4C 62
+        WAIT
+        SPEED 32
+        MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+        WAIT
+
+        SPEED 32
+        MOVE 50 28 64 5D 5D 36 7C 64 78 A0 64 6E 5F 78 5A 6E
+        WAIT
+        SPEED 3C
+        MOVE 50 1E 64 55 60 3C 7A 53 78 AA 64 64 6B 93 4C 62
+        WAIT
+        SPEED 32
+        MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+        WAIT
+
+        SPEED 32
+        MOVE 50 28 64 5D 5D 36 7C 64 78 A0 64 6E 5F 78 5A 6E
+        WAIT
+        SPEED 3C
+        MOVE 50 1E 64 55 60 3C 7A 53 78 AA 64 64 6B 93 4C 62
+        WAIT
+        SPEED 32
+        MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+        WAIT
+
+        SPEED 32
+        MOVE 50 28 64 5D 5D 36 7C 64 78 A0 64 6E 5F 78 5A 6E
+        WAIT
+        SPEED 3C
+        MOVE 50 1E 64 55 60 3C 7A 53 78 AA 64 64 6B 93 4C 62
+        WAIT
+        SPEED 32
+        MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+        WAIT
+
+      MOVE 50 1E 64 64 5D 37 7C 64 78 AA 64 64 6B 91 4C 64
+      WAIT
+        SPEED 3C
+        MOVE 50 23 50 56 82 5D 73 5A 78 A5 50 5E 6B 92 4E 57
+        WAIT
+        SPEED 3C
+        MOVE 50 23 50 56 78 25 A3 5A 78 A5 50 5E 6B 92 4D 5A
+        WAIT
+        SPEED 14
+        MOVE 50 23 50 6B 64 38 7C 6E 78 A5 50 70 8C 96 58 6E
+        WAIT
+        SPEED 3C
+        MOVE 50 23 78 54 5D 36 7B 70 78 A5 78 5F 5A 69 68 75
+        WAIT
+        SPEED 3C
+        MOVE 50 23 78 6A 5D 36 7B 6E 78 A5 78 72 57 A3 2C 6E
+        WAIT
+        SPEED 14
+        MOVE 50 23 78 58 47 2D 6B 5A 78 A5 78 5D 64 90 4C 5A
+        WAIT
+
+        SPEED 3C
+        MOVE 50 23 50 56 82 5D 73 5A 78 A5 50 5E 6B 92 4E 57
+        WAIT
+        SPEED 3C
+        MOVE 50 23 50 56 78 25 A3 5A 78 A5 50 5E 6B 92 4D 5A
+        WAIT
+        SPEED 14
+        MOVE 50 23 50 6B 64 38 7C 6E 78 A5 50 70 8C 96 58 6E
+        WAIT
+        SPEED 3C
+        MOVE 50 23 78 54 5D 36 7B 70 78 A5 78 5F 5A 69 68 75
+        WAIT
+        SPEED 3C
+        MOVE 50 23 78 6A 5D 36 7B 6E 78 A5 78 72 57 A3 2C 6E
+        WAIT
+        SPEED 14
+        MOVE 50 23 78 58 47 2D 6B 5A 78 A5 78 5D 64 90 4C 5A
+        WAIT
+
+        SPEED 3C
+        MOVE 50 23 50 56 82 5D 73 5A 78 A5 50 5E 6B 92 4E 57
+        WAIT
+        SPEED 3C
+        MOVE 50 23 50 56 78 25 A3 5A 78 A5 50 5E 6B 92 4D 5A
+        WAIT
+        SPEED 14
+        MOVE 50 23 50 6B 64 38 7C 6E 78 A5 50 70 8C 96 58 6E
+        WAIT
+        SPEED 3C
+        MOVE 50 23 78 54 5D 36 7B 70 78 A5 78 5F 5A 69 68 75
+        WAIT
+        SPEED 3C
+        MOVE 50 23 78 6A 5D 36 7B 6E 78 A5 78 72 57 A3 2C 6E
+        WAIT
+        SPEED 14
+        MOVE 50 23 78 58 47 2D 6B 5A 78 A5 78 5D 64 90 4C 5A
+        WAIT
+
+        SPEED 3C
+        MOVE 50 23 50 56 82 5D 73 5A 78 A5 50 5E 6B 92 4E 57
+        WAIT
+        SPEED 3C
+        MOVE 50 23 50 56 78 25 A3 5A 78 A5 50 5E 6B 92 4D 5A
+        WAIT
+        SPEED 14
+        MOVE 50 23 50 6B 64 38 7C 6E 78 A5 50 70 8C 96 58 6E
+        WAIT
+        SPEED 3C
+        MOVE 50 23 78 54 5D 36 7B 70 78 A5 78 5F 5A 69 68 75
+        WAIT
+        SPEED 3C
+        MOVE 50 23 78 6A 5D 36 7B 6E 78 A5 78 72 57 A3 2C 6E
+        WAIT
+        SPEED 14
+        MOVE 50 23 78 58 47 2D 6B 5A 78 A5 78 5D 64 90 4C 5A
+        WAIT
+
+        SPEED 3C
+        MOVE 50 23 50 56 82 5D 73 5A 78 A5 50 5E 6B 92 4E 57
+        WAIT
+        SPEED 3C
+        MOVE 50 23 50 56 78 25 A3 5A 78 A5 50 5E 6B 92 4D 5A
+        WAIT
+        SPEED 14
+        MOVE 50 23 50 6B 64 38 7C 6E 78 A5 50 70 8C 96 58 6E
+        WAIT
+        SPEED 3C
+        MOVE 50 23 78 54 5D 36 7B 70 78 A5 78 5F 5A 69 68 75
+        WAIT
+        SPEED 3C
+        MOVE 50 23 78 6A 5D 36 7B 6E 78 A5 78 72 57 A3 2C 6E
+        WAIT
+        SPEED 14
+        MOVE 50 23 78 58 47 2D 6B 5A 78 A5 78 5D 64 90 4C 5A
+        WAIT
+
+        SPEED 3C
+        MOVE 50 23 50 56 82 5D 73 5A 78 A5 50 5E 6B 92 4E 57
+        WAIT
+        SPEED 3C
+        MOVE 50 23 50 56 78 25 A3 5A 78 A5 50 5E 6B 92 4D 5A
+        WAIT
+        SPEED 14
+        MOVE 50 23 50 6B 64 38 7C 6E 78 A5 50 70 8C 96 58 6E
+        WAIT
+        SPEED 3C
+        MOVE 50 23 78 54 5D 36 7B 70 78 A5 78 5F 5A 69 68 75
+        WAIT
+        SPEED 3C
+        MOVE 50 23 78 6A 5D 36 7B 6E 78 A5 78 72 57 A3 2C 6E
+        WAIT
+        SPEED 14
+        MOVE 50 23 78 58 47 2D 6B 5A 78 A5 78 5D 64 90 4C 5A
+        WAIT
+
+      MOVE 50 1E 64 64 5D 37 7C 64 78 AA 64 64 6B 91 4C 64
+      WAIT
+        SPEED 32
+        MOVE 50 28 64 5A 69 50 6E 5A 78 A0 64 6B 6B 92 4C 64
+        WAIT
+        SPEED 3C
+        MOVE 50 1E 64 64 5D 35 7C 66 78 AA 64 73 68 8C 4E 75
+        WAIT
+        SPEED 32
+        MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+        WAIT
+
+        SPEED 32
+        MOVE 50 28 64 5A 69 50 6E 5A 78 A0 64 6B 6B 92 4C 64
+        WAIT
+        SPEED 3C
+        MOVE 50 1E 64 64 5D 35 7C 66 78 AA 64 73 68 8C 4E 75
+        WAIT
+        SPEED 32
+        MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+        WAIT
+
+        SPEED 32
+        MOVE 50 28 64 5A 69 50 6E 5A 78 A0 64 6B 6B 92 4C 64
+        WAIT
+        SPEED 3C
+        MOVE 50 1E 64 64 5D 35 7C 66 78 AA 64 73 68 8C 4E 75
+        WAIT
+        SPEED 32
+        MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+        WAIT
+
+        SPEED 32
+        MOVE 50 28 64 5A 69 50 6E 5A 78 A0 64 6B 6B 92 4C 64
+        WAIT
+        SPEED 3C
+        MOVE 50 1E 64 64 5D 35 7C 66 78 AA 64 73 68 8C 4E 75
+        WAIT
+        SPEED 32
+        MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+        WAIT
+
+        SPEED 32
+        MOVE 50 28 64 5A 69 50 6E 5A 78 A0 64 6B 6B 92 4C 64
+        WAIT
+        SPEED 3C
+        MOVE 50 1E 64 64 5D 35 7C 66 78 AA 64 73 68 8C 4E 75
+        WAIT
+        SPEED 32
+        MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+        WAIT
+
+        SPEED 32
+        MOVE 50 28 64 5A 69 50 6E 5A 78 A0 64 6B 6B 92 4C 64
+        WAIT
+        SPEED 3C
+        MOVE 50 1E 64 64 5D 35 7C 66 78 AA 64 73 68 8C 4E 75
+        WAIT
+        SPEED 32
+        MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+        WAIT
+
+        SPEED 32
+        MOVE 50 28 64 5A 69 50 6E 5A 78 A0 64 6B 6B 92 4C 64
+        WAIT
+        SPEED 3C
+        MOVE 50 1E 64 64 5D 35 7C 66 78 AA 64 73 68 8C 4E 75
+        WAIT
+        SPEED 32
+        MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+        WAIT
+
+        SPEED 32
+        MOVE 50 28 64 5A 69 50 6E 5A 78 A0 64 6B 6B 92 4C 64
+        WAIT
+        SPEED 3C
+        MOVE 50 1E 64 64 5D 35 7C 66 78 AA 64 73 68 8C 4E 75
+        WAIT
+        SPEED 32
+        MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+        WAIT
+
+        SPEED 32
+        MOVE 50 28 64 5A 69 50 6E 5A 78 A0 64 6B 6B 92 4C 64
+        WAIT
+        SPEED 3C
+        MOVE 50 1E 64 64 5D 35 7C 66 78 AA 64 73 68 8C 4E 75
+        WAIT
+        SPEED 32
+        MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+        WAIT
+
+        SPEED 32
+        MOVE 50 28 64 5A 69 50 6E 5A 78 A0 64 6B 6B 92 4C 64
+        WAIT
+        SPEED 3C
+        MOVE 50 1E 64 64 5D 35 7C 66 78 AA 64 73 68 8C 4E 75
+        WAIT
+        SPEED 32
+        MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+        WAIT
+
+        SPEED 32
+        MOVE 50 28 64 5A 69 50 6E 5A 78 A0 64 6B 6B 92 4C 64
+        WAIT
+        SPEED 3C
+        MOVE 50 1E 64 64 5D 35 7C 66 78 AA 64 73 68 8C 4E 75
+        WAIT
+        SPEED 32
+        MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+        WAIT
+
+        SPEED 32
+        MOVE 50 28 64 5A 69 50 6E 5A 78 A0 64 6B 6B 92 4C 64
+        WAIT
+        SPEED 3C
+        MOVE 50 1E 64 64 5D 35 7C 66 78 AA 64 73 68 8C 4E 75
+        WAIT
+        SPEED 32
+        MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+        WAIT
+
+      SPEED 1B
+      MOVE 50 1E 55 5F 7B 37 9A 5F 78 AA 55 69 89 91 6A 69
+      WAIT
+      SPEED 1E
+      MOVE 50 1E 55 5F 7B 37 9A 5D 78 AA 55 69 89 91 6A 6B
+      WAIT
+      SPEED 1E
+      MOVE 50 1E 64 64 5D 37 7C 64 78 AA 64 64 6B 91 4C 64
+      WAIT
+      DELAY 2 58
+      SPEED 28
+      MOVE 50 1E 64 64 5D 37 7C 64 78 AA 64 64 6B 91 4C 64
+      WAIT
+      ASSIGNMENT 10 00 counter 00 02
+    JMP id-9b111abad742983765e7996f028fd6b7-2
+    LABEL id-9b111abad742983765e7996f028fd6b7-1
+      CMP 10 00 counter 00 02
+      JNE id-7c3884e9cc9cbc19be787657feb36ca3-1
+          SPEED 32
+          MOVE 50 28 64 5A 69 50 6E 5A 78 A0 64 6B 6B 92 4C 64
+          WAIT
+          SPEED 3C
+          MOVE 50 1E 64 64 5D 35 7C 66 78 AA 64 73 68 8C 4E 75
+          WAIT
+          SPEED 32
+          MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+          WAIT
+
+          SPEED 32
+          MOVE 50 28 64 5A 69 50 6E 5A 78 A0 64 6B 6B 92 4C 64
+          WAIT
+          SPEED 3C
+          MOVE 50 1E 64 64 5D 35 7C 66 78 AA 64 73 68 8C 4E 75
+          WAIT
+          SPEED 32
+          MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+          WAIT
+
+          SPEED 32
+          MOVE 50 28 64 5A 69 50 6E 5A 78 A0 64 6B 6B 92 4C 64
+          WAIT
+          SPEED 3C
+          MOVE 50 1E 64 64 5D 35 7C 66 78 AA 64 73 68 8C 4E 75
+          WAIT
+          SPEED 32
+          MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+          WAIT
+
+          SPEED 32
+          MOVE 50 28 64 5A 69 50 6E 5A 78 A0 64 6B 6B 92 4C 64
+          WAIT
+          SPEED 3C
+          MOVE 50 1E 64 64 5D 35 7C 66 78 AA 64 73 68 8C 4E 75
+          WAIT
+          SPEED 32
+          MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+          WAIT
+
+          SPEED 32
+          MOVE 50 28 64 5A 69 50 6E 5A 78 A0 64 6B 6B 92 4C 64
+          WAIT
+          SPEED 3C
+          MOVE 50 1E 64 64 5D 35 7C 66 78 AA 64 73 68 8C 4E 75
+          WAIT
+          SPEED 32
+          MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+          WAIT
+
+          SPEED 32
+          MOVE 50 28 64 5A 69 50 6E 5A 78 A0 64 6B 6B 92 4C 64
+          WAIT
+          SPEED 3C
+          MOVE 50 1E 64 64 5D 35 7C 66 78 AA 64 73 68 8C 4E 75
+          WAIT
+          SPEED 32
+          MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+          WAIT
+
+          SPEED 32
+          MOVE 50 28 64 5A 69 50 6E 5A 78 A0 64 6B 6B 92 4C 64
+          WAIT
+          SPEED 3C
+          MOVE 50 1E 64 64 5D 35 7C 66 78 AA 64 73 68 8C 4E 75
+          WAIT
+          SPEED 32
+          MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+          WAIT
+
+          SPEED 32
+          MOVE 50 28 64 5A 69 50 6E 5A 78 A0 64 6B 6B 92 4C 64
+          WAIT
+          SPEED 3C
+          MOVE 50 1E 64 64 5D 35 7C 66 78 AA 64 73 68 8C 4E 75
+          WAIT
+          SPEED 32
+          MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+          WAIT
+
+          SPEED 32
+          MOVE 50 28 64 5A 69 50 6E 5A 78 A0 64 6B 6B 92 4C 64
+          WAIT
+          SPEED 3C
+          MOVE 50 1E 64 64 5D 35 7C 66 78 AA 64 73 68 8C 4E 75
+          WAIT
+          SPEED 32
+          MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+          WAIT
+
+          SPEED 32
+          MOVE 50 28 64 5A 69 50 6E 5A 78 A0 64 6B 6B 92 4C 64
+          WAIT
+          SPEED 3C
+          MOVE 50 1E 64 64 5D 35 7C 66 78 AA 64 73 68 8C 4E 75
+          WAIT
+          SPEED 32
+          MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+          WAIT
+
+          SPEED 32
+          MOVE 50 28 64 5A 69 50 6E 5A 78 A0 64 6B 6B 92 4C 64
+          WAIT
+          SPEED 3C
+          MOVE 50 1E 64 64 5D 35 7C 66 78 AA 64 73 68 8C 4E 75
+          WAIT
+          SPEED 32
+          MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+          WAIT
+
+          SPEED 32
+          MOVE 50 28 64 5A 69 50 6E 5A 78 A0 64 6B 6B 92 4C 64
+          WAIT
+          SPEED 3C
+          MOVE 50 1E 64 64 5D 35 7C 66 78 AA 64 73 68 8C 4E 75
+          WAIT
+          SPEED 32
+          MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+          WAIT
+
+          SPEED 32
+          MOVE 50 28 64 5A 69 50 6E 5A 78 A0 64 6B 6B 92 4C 64
+          WAIT
+          SPEED 3C
+          MOVE 50 1E 64 64 5D 35 7C 66 78 AA 64 73 68 8C 4E 75
+          WAIT
+          SPEED 32
+          MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+          WAIT
+
+        MOVE 50 1E 64 64 5D 37 7C 64 78 AA 64 64 6B 91 4C 64
+        WAIT
+          SPEED 3C
+          MOVE 50 23 50 56 82 5D 73 5A 78 A5 50 5E 6B 92 4E 57
+          WAIT
+          SPEED 3C
+          MOVE 50 23 50 56 78 25 A3 5A 78 A5 50 5E 6B 92 4D 5A
+          WAIT
+          SPEED 14
+          MOVE 50 23 50 6B 64 38 7C 6E 78 A5 50 70 8C 96 58 6E
+          WAIT
+          SPEED 3C
+          MOVE 50 23 78 54 5D 36 7B 70 78 A5 78 5F 5A 69 68 75
+          WAIT
+          SPEED 3C
+          MOVE 50 23 78 6A 5D 36 7B 6E 78 A5 78 72 57 A3 2C 6E
+          WAIT
+          SPEED 14
+          MOVE 50 23 78 58 47 2D 6B 5A 78 A5 78 5D 64 90 4C 5A
+          WAIT
+
+          SPEED 3C
+          MOVE 50 23 50 56 82 5D 73 5A 78 A5 50 5E 6B 92 4E 57
+          WAIT
+          SPEED 3C
+          MOVE 50 23 50 56 78 25 A3 5A 78 A5 50 5E 6B 92 4D 5A
+          WAIT
+          SPEED 14
+          MOVE 50 23 50 6B 64 38 7C 6E 78 A5 50 70 8C 96 58 6E
+          WAIT
+          SPEED 3C
+          MOVE 50 23 78 54 5D 36 7B 70 78 A5 78 5F 5A 69 68 75
+          WAIT
+          SPEED 3C
+          MOVE 50 23 78 6A 5D 36 7B 6E 78 A5 78 72 57 A3 2C 6E
+          WAIT
+          SPEED 14
+          MOVE 50 23 78 58 47 2D 6B 5A 78 A5 78 5D 64 90 4C 5A
+          WAIT
+
+          SPEED 3C
+          MOVE 50 23 50 56 82 5D 73 5A 78 A5 50 5E 6B 92 4E 57
+          WAIT
+          SPEED 3C
+          MOVE 50 23 50 56 78 25 A3 5A 78 A5 50 5E 6B 92 4D 5A
+          WAIT
+          SPEED 14
+          MOVE 50 23 50 6B 64 38 7C 6E 78 A5 50 70 8C 96 58 6E
+          WAIT
+          SPEED 3C
+          MOVE 50 23 78 54 5D 36 7B 70 78 A5 78 5F 5A 69 68 75
+          WAIT
+          SPEED 3C
+          MOVE 50 23 78 6A 5D 36 7B 6E 78 A5 78 72 57 A3 2C 6E
+          WAIT
+          SPEED 14
+          MOVE 50 23 78 58 47 2D 6B 5A 78 A5 78 5D 64 90 4C 5A
+          WAIT
+
+          SPEED 3C
+          MOVE 50 23 50 56 82 5D 73 5A 78 A5 50 5E 6B 92 4E 57
+          WAIT
+          SPEED 3C
+          MOVE 50 23 50 56 78 25 A3 5A 78 A5 50 5E 6B 92 4D 5A
+          WAIT
+          SPEED 14
+          MOVE 50 23 50 6B 64 38 7C 6E 78 A5 50 70 8C 96 58 6E
+          WAIT
+          SPEED 3C
+          MOVE 50 23 78 54 5D 36 7B 70 78 A5 78 5F 5A 69 68 75
+          WAIT
+          SPEED 3C
+          MOVE 50 23 78 6A 5D 36 7B 6E 78 A5 78 72 57 A3 2C 6E
+          WAIT
+          SPEED 14
+          MOVE 50 23 78 58 47 2D 6B 5A 78 A5 78 5D 64 90 4C 5A
+          WAIT
+
+          SPEED 3C
+          MOVE 50 23 50 56 82 5D 73 5A 78 A5 50 5E 6B 92 4E 57
+          WAIT
+          SPEED 3C
+          MOVE 50 23 50 56 78 25 A3 5A 78 A5 50 5E 6B 92 4D 5A
+          WAIT
+          SPEED 14
+          MOVE 50 23 50 6B 64 38 7C 6E 78 A5 50 70 8C 96 58 6E
+          WAIT
+          SPEED 3C
+          MOVE 50 23 78 54 5D 36 7B 70 78 A5 78 5F 5A 69 68 75
+          WAIT
+          SPEED 3C
+          MOVE 50 23 78 6A 5D 36 7B 6E 78 A5 78 72 57 A3 2C 6E
+          WAIT
+          SPEED 14
+          MOVE 50 23 78 58 47 2D 6B 5A 78 A5 78 5D 64 90 4C 5A
+          WAIT
+
+          SPEED 3C
+          MOVE 50 23 50 56 82 5D 73 5A 78 A5 50 5E 6B 92 4E 57
+          WAIT
+          SPEED 3C
+          MOVE 50 23 50 56 78 25 A3 5A 78 A5 50 5E 6B 92 4D 5A
+          WAIT
+          SPEED 14
+          MOVE 50 23 50 6B 64 38 7C 6E 78 A5 50 70 8C 96 58 6E
+          WAIT
+          SPEED 3C
+          MOVE 50 23 78 54 5D 36 7B 70 78 A5 78 5F 5A 69 68 75
+          WAIT
+          SPEED 3C
+          MOVE 50 23 78 6A 5D 36 7B 6E 78 A5 78 72 57 A3 2C 6E
+          WAIT
+          SPEED 14
+          MOVE 50 23 78 58 47 2D 6B 5A 78 A5 78 5D 64 90 4C 5A
+          WAIT
+
+        MOVE 50 1E 64 64 5D 37 7C 64 78 AA 64 64 6B 91 4C 64
+        WAIT
+          SPEED 32
+          MOVE 50 28 64 5D 5D 36 7C 64 78 A0 64 6E 5F 78 5A 6E
+          WAIT
+          SPEED 3C
+          MOVE 50 1E 64 55 60 3C 7A 53 78 AA 64 64 6B 93 4C 62
+          WAIT
+          SPEED 32
+          MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+          WAIT
+
+          SPEED 32
+          MOVE 50 28 64 5D 5D 36 7C 64 78 A0 64 6E 5F 78 5A 6E
+          WAIT
+          SPEED 3C
+          MOVE 50 1E 64 55 60 3C 7A 53 78 AA 64 64 6B 93 4C 62
+          WAIT
+          SPEED 32
+          MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+          WAIT
+
+          SPEED 32
+          MOVE 50 28 64 5D 5D 36 7C 64 78 A0 64 6E 5F 78 5A 6E
+          WAIT
+          SPEED 3C
+          MOVE 50 1E 64 55 60 3C 7A 53 78 AA 64 64 6B 93 4C 62
+          WAIT
+          SPEED 32
+          MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+          WAIT
+
+          SPEED 32
+          MOVE 50 28 64 5D 5D 36 7C 64 78 A0 64 6E 5F 78 5A 6E
+          WAIT
+          SPEED 3C
+          MOVE 50 1E 64 55 60 3C 7A 53 78 AA 64 64 6B 93 4C 62
+          WAIT
+          SPEED 32
+          MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+          WAIT
+
+          SPEED 32
+          MOVE 50 28 64 5D 5D 36 7C 64 78 A0 64 6E 5F 78 5A 6E
+          WAIT
+          SPEED 3C
+          MOVE 50 1E 64 55 60 3C 7A 53 78 AA 64 64 6B 93 4C 62
+          WAIT
+          SPEED 32
+          MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+          WAIT
+
+          SPEED 32
+          MOVE 50 28 64 5D 5D 36 7C 64 78 A0 64 6E 5F 78 5A 6E
+          WAIT
+          SPEED 3C
+          MOVE 50 1E 64 55 60 3C 7A 53 78 AA 64 64 6B 93 4C 62
+          WAIT
+          SPEED 32
+          MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+          WAIT
+
+          SPEED 32
+          MOVE 50 28 64 5D 5D 36 7C 64 78 A0 64 6E 5F 78 5A 6E
+          WAIT
+          SPEED 3C
+          MOVE 50 1E 64 55 60 3C 7A 53 78 AA 64 64 6B 93 4C 62
+          WAIT
+          SPEED 32
+          MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+          WAIT
+
+          SPEED 32
+          MOVE 50 28 64 5D 5D 36 7C 64 78 A0 64 6E 5F 78 5A 6E
+          WAIT
+          SPEED 3C
+          MOVE 50 1E 64 55 60 3C 7A 53 78 AA 64 64 6B 93 4C 62
+          WAIT
+          SPEED 32
+          MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+          WAIT
+
+          SPEED 32
+          MOVE 50 28 64 5D 5D 36 7C 64 78 A0 64 6E 5F 78 5A 6E
+          WAIT
+          SPEED 3C
+          MOVE 50 1E 64 55 60 3C 7A 53 78 AA 64 64 6B 93 4C 62
+          WAIT
+          SPEED 32
+          MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+          WAIT
+
+          SPEED 32
+          MOVE 50 28 64 5D 5D 36 7C 64 78 A0 64 6E 5F 78 5A 6E
+          WAIT
+          SPEED 3C
+          MOVE 50 1E 64 55 60 3C 7A 53 78 AA 64 64 6B 93 4C 62
+          WAIT
+          SPEED 32
+          MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+          WAIT
+
+          SPEED 32
+          MOVE 50 28 64 5D 5D 36 7C 64 78 A0 64 6E 5F 78 5A 6E
+          WAIT
+          SPEED 3C
+          MOVE 50 1E 64 55 60 3C 7A 53 78 AA 64 64 6B 93 4C 62
+          WAIT
+          SPEED 32
+          MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+          WAIT
+
+          SPEED 32
+          MOVE 50 28 64 5D 5D 36 7C 64 78 A0 64 6E 5F 78 5A 6E
+          WAIT
+          SPEED 3C
+          MOVE 50 1E 64 55 60 3C 7A 53 78 AA 64 64 6B 93 4C 62
+          WAIT
+          SPEED 32
+          MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+          WAIT
+
+          SPEED 32
+          MOVE 50 28 64 5D 5D 36 7C 64 78 A0 64 6E 5F 78 5A 6E
+          WAIT
+          SPEED 3C
+          MOVE 50 1E 64 55 60 3C 7A 53 78 AA 64 64 6B 93 4C 62
+          WAIT
+          SPEED 32
+          MOVE 50 1E 64 64 5D 36 7C 62 78 AA 64 64 6B 92 4C 66
+          WAIT
+
+        ASSIGNMENT 10 00 counter 00 03
+      JMP id-7c3884e9cc9cbc19be787657feb36ca3-2
+      LABEL id-7c3884e9cc9cbc19be787657feb36ca3-1
+        CMP 10 00 counter 00 03
+        JNE id-6f9e07d725ba614aef6c561cbc7a46db
+            SPEED 1E
+            MOVE 50 1E 64 64 5D 37 7C 64 78 AA 64 64 6B 91 4C 64
+            WAIT
+            DELAY 7 D0
+
+            SPEED 1E
+            MOVE 50 1E 64 64 5D 37 7C 64 78 AA 64 64 6B 91 4C 64
+            WAIT
+            DELAY 7 D0
+
+            SPEED 1E
+            MOVE 50 1E 64 64 5D 37 7C 64 78 AA 64 64 6B 91 4C 64
+            WAIT
+            DELAY 7 D0
+
+            SPEED 1E
+            MOVE 50 1E 64 64 5D 37 7C 64 78 AA 64 64 6B 91 4C 64
+            WAIT
+            DELAY 7 D0
+
+            SPEED 1E
+            MOVE 50 1E 64 64 5D 37 7C 64 78 AA 64 64 6B 91 4C 64
+            WAIT
+            DELAY 7 D0
+
+            SPEED 1E
+            MOVE 50 1E 64 64 5D 37 7C 64 78 AA 64 64 6B 91 4C 64
+            WAIT
+            DELAY 7 D0
+
+            SPEED 1E
+            MOVE 50 1E 64 64 5D 37 7C 64 78 AA 64 64 6B 91 4C 64
+            WAIT
+            DELAY 7 D0
+
+            SPEED 1E
+            MOVE 50 1E 64 64 5D 37 7C 64 78 AA 64 64 6B 91 4C 64
+            WAIT
+            DELAY 7 D0
+
+            SPEED 1E
+            MOVE 50 1E 64 64 5D 37 7C 64 78 AA 64 64 6B 91 4C 64
+            WAIT
+            DELAY 7 D0
+
+            SPEED 1E
+            MOVE 50 1E 64 64 5D 37 7C 64 78 AA 64 64 6B 91 4C 64
+            WAIT
+            DELAY 7 D0
+
+            SPEED 1E
+            MOVE 50 1E 64 64 5D 37 7C 64 78 AA 64 64 6B 91 4C 64
+            WAIT
+            DELAY 7 D0
+
+            SPEED 1E
+            MOVE 50 1E 64 64 5D 37 7C 64 78 AA 64 64 6B 91 4C 64
+            WAIT
+            DELAY 7 D0
+
+            SPEED 1E
+            MOVE 50 1E 64 64 5D 37 7C 64 78 AA 64 64 6B 91 4C 64
+            WAIT
+            DELAY 7 D0
+
+            SPEED 1E
+            MOVE 50 1E 64 64 5D 37 7C 64 78 AA 64 64 6B 91 4C 64
+            WAIT
+            DELAY 7 D0
+
+            SPEED 1E
+            MOVE 50 1E 64 64 5D 37 7C 64 78 AA 64 64 6B 91 4C 64
+            WAIT
+            DELAY 7 D0
+
+            SPEED 1E
+            MOVE 50 1E 64 64 5D 37 7C 64 78 AA 64 64 6B 91 4C 64
+            WAIT
+            DELAY 7 D0
+
+            SPEED 1E
+            MOVE 50 1E 64 64 5D 37 7C 64 78 AA 64 64 6B 91 4C 64
+            WAIT
+            DELAY 7 D0
+
+            SPEED 1E
+            MOVE 50 1E 64 64 5D 37 7C 64 78 AA 64 64 6B 91 4C 64
+            WAIT
+            DELAY 7 D0
+
+            SPEED 1E
+            MOVE 50 1E 64 64 5D 37 7C 64 78 AA 64 64 6B 91 4C 64
+            WAIT
+            DELAY 7 D0
+
+            SPEED 1E
+            MOVE 50 1E 64 64 5D 37 7C 64 78 AA 64 64 6B 91 4C 64
+            WAIT
+            DELAY 7 D0
+
+          ASSIGNMENT 10 00 counter 00 05
+        LABEL id-6f9e07d725ba614aef6c561cbc7a46db
+      LABEL id-7c3884e9cc9cbc19be787657feb36ca3-2
+    LABEL id-9b111abad742983765e7996f028fd6b7-2
+  LABEL id-cccdbd3d30fa5393a5ed457b6ea78e02-2
+JMP id-9dd1018504be689afb715a462d332f81-2
+LABEL id-9dd1018504be689afb715a462d332f81-1
+  CMP 10 00 counter 00 05
+  JNE id-191adc13411aaf12473b5d5d70c7466d-1
+    MOVE 50 1E 64 64 5D 37 7C 64 78 AA 64 64 6B 91 4C 64
+    WAIT
+  JMP id-191adc13411aaf12473b5d5d70c7466d-2
+  LABEL id-191adc13411aaf12473b5d5d70c7466d-1
+    SPEED 3C
+    MOVE 50 23 50 56 82 5D 73 5A 78 A5 50 5E 6B 92 4E 57
+    WAIT
+    SPEED 3C
+    MOVE 50 23 50 56 78 25 A3 5A 78 A5 50 5E 6B 92 4D 5A
+    WAIT
+    SPEED 14
+    MOVE 50 23 50 6B 64 38 7C 6E 78 A5 50 70 8C 96 58 6E
+    WAIT
+    SPEED 3C
+    MOVE 50 23 78 54 5D 36 7B 70 78 A5 78 5F 5A 69 68 75
+    WAIT
+    SPEED 3C
+    MOVE 50 23 78 6A 5D 36 7B 6E 78 A5 78 72 57 A3 2C 6E
+    WAIT
+    SPEED 14
+    MOVE 50 23 78 58 47 2D 6B 5A 78 A5 78 5D 64 90 4C 5A
+    WAIT
+  LABEL id-191adc13411aaf12473b5d5d70c7466d-2
+LABEL id-9dd1018504be689afb715a462d332f81-2
+RET
